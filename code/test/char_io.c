@@ -3,5 +3,4 @@
 int main()
 {
   PrintChar(ReadChar());
-  PrintChar(ReadChar());
 }
